@@ -22,7 +22,7 @@ My name is Mykhaylo Hodovaniuk
 </span>
 
 ![Mihod GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagodovanuk&show_icons=true&theme=radical)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter279k&layout=compact)|
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagodovanuk&layout=compact)|
 
 | <h3>BE stack</h3> | <h3>FE stack</h3> |
 |-----------|-------------------|
