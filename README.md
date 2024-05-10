@@ -11,8 +11,10 @@ My name is Mykhaylo Hodovaniuk <br>
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/mishagodovanuk)](https://badges.pufler.dev)
 
 </div>
-
-### Contact me:
+<span>
+  <img src="https://github.com/mishagodovanuk/mishagodovanuk/blob/main/10572778.png" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<b style="font-size:100px">Contact me:</b> 
+</span>
+<br>
 <span>
     <a href='https://www.linkedin.com/in/mikhaylo-hodovaniuk/' target="_blank">
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="linked" height="20px" />
@@ -30,8 +32,11 @@ My name is Mykhaylo Hodovaniuk <br>
         <img alt='GoogleScholar' src='https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&&color=0181FF'>
     </a>
 </span>
-
-## Stats:
+<br>
+<span>
+  <img src="https://github.com/mishagodovanuk/mishagodovanuk/blob/main/10572801.png" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<b style="font-size:100px">Stats:</b> 
+</span>
+<br>
 
 ![Mihod GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagodovanuk&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagodovanuk&layout=compact&theme=radical)|
@@ -42,8 +47,12 @@ My name is Mykhaylo Hodovaniuk <br>
 [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=mishagodovanuk&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+<br>
+<span>
+  <img src="https://github.com/mishagodovanuk/mishagodovanuk/blob/main/10572802.png" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<b style="font-size:100px">BE stack:</b> 
+</span>
+<br>
 
-### BE stack:
 ![PHP](https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Magento](https://img.shields.io/badge/magento-%23FF2D20?style=for-the-badge&logo=magento&logoColor=ffdd54)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -51,8 +60,11 @@ My name is Mykhaylo Hodovaniuk <br>
 ![BASH](https://img.shields.io/badge/BASH-%23323330.svg?style=for-the-badge&logo=shell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)
 
-
-### FE stack: 
+<br>
+<span>
+  <img src="https://github.com/mishagodovanuk/mishagodovanuk/blob/main/10572832.png" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<b style="font-size:100px">FE stack:</b> 
+</span>
+<br> 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23FF2D20.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -62,7 +74,12 @@ My name is Mykhaylo Hodovaniuk <br>
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 
-### OC stack:
+<br>
+<span>
+  <img src="https://github.com/mishagodovanuk/mishagodovanuk/blob/main/10572803.png" width="35" height="35"/>&nbsp;&nbsp;&nbsp;<b style="font-size:100px">OC stack:</b> 
+</span>
+<br> 
+
 <span>
   <img src="https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=white" title="linked" height="20px" />
   <img src="https://img.shields.io/badge/Ubuntu-%23FF2D20.svg?style=for-the-badge&logo=ubuntu&logoColor=white" title="linked" height="20px" />
