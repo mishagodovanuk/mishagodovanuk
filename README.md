@@ -4,11 +4,13 @@ My name is Mykhaylo Hodovaniuk <br>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25ya212ZjRsM3YydW90OTcxNGw2OGhwdGxpajNqZ25wam9jcHM0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UGG3LwNmwzYlTLtL8/giphy.gif" width="600" height="250"/>
 </div>
+<div align="center">
 
 [![Repos Badge](https://badges.pufler.dev/repos/mishagodovanuk)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/mishagodovanuk)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/mishagodovanuk)](https://badges.pufler.dev)
 
+</div>
 
 ### Contact me:
 <span>
