@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name is Mykhaylo Hodovaniuk
+My name is Mykhaylo Hodovaniuk <br>
+
+
+
+[![Repos Badge](https://badges.pufler.dev/repos/mishagodovanuk)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/mishagodovanuk)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/mishagodovanuk)](https://badges.pufler.dev)
 
 
 #### Socials
@@ -21,18 +27,32 @@ My name is Mykhaylo Hodovaniuk
     </a>
 </span>
 
-![Mihod GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagodovanuk&show_icons=true&theme=radical)
-     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagodovanuk&layout=compact)|
+## Stats
 
-| <h3>BE stack</h3> | <h3>FE stack</h3> |
-|-----------|-------------------|
-| ![PHP](https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=php&logoColor=white)  | ![JavaScript](https://img.shields.io/badge/javascript-%23FF2D20.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   |
-| ![Magento](https://img.shields.io/badge/magento-%23FF2D20?style=for-the-badge&logo=magento&logoColor=ffdd54)   | ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)    |
-| ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)   | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)   |
-| ![Laravel](https://img.shields.io/badge/zend-%23FF2D20.svg?style=for-the-badge&logo=zend&logoColor=white)   | ![Knockout](https://img.shields.io/badge/knockout-%230769AD.svg?style=for-the-badge&logo=knockou&logoColor=white)   |
-| ![BASH](https://img.shields.io/badge/BASH-%23323330.svg?style=for-the-badge&logo=shell&logoColor=white)  | ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)   |
-| ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)  | ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)   |
-|           | ![sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)   |
+![Mihod GitHub stats](https://github-readme-stats.vercel.app/api?username=mishagodovanuk&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishagodovanuk&layout=compact&theme=radical)|
+[![trophy](https://github-profile-trophy.vercel.app/?username=mishagodovanuk&row=1&column=9&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=mishagodovanuk&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### BE stack 
+![PHP](https://img.shields.io/badge/PHP-%23323330.svg?style=for-the-badge&logo=php&logoColor=white)
+![Magento](https://img.shields.io/badge/magento-%23FF2D20?style=for-the-badge&logo=magento&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/zend-%23FF2D20.svg?style=for-the-badge&logo=zend&logoColor=white)
+![BASH](https://img.shields.io/badge/BASH-%23323330.svg?style=for-the-badge&logo=shell&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white)
+
+
+### FE stack 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23FF2D20.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Knockout](https://img.shields.io/badge/knockout-%230769AD.svg?style=for-the-badge&logo=knockou&logoColor=white)
+![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 
 #### OC stack
 <span>
@@ -65,7 +85,7 @@ My name is Mykhaylo Hodovaniuk
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" title="nginx" height="20px" />
   </span>
 - NoSQL
-<br><span>
+  <br><span>
   <img src="https://img.shields.io/badge/elasticsearch-%2307405e.svg?&style=for-the-badge&logo=elasticsearch&logoColor=white" title="apache" height="20px" />
   <img src="https://img.shields.io/badge/Redis-%23D42029.svg?&style=for-the-badge&logo=redis&logoColor=white" title="nginx" height="20px" />
   </span>
